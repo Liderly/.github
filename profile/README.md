@@ -25,11 +25,7 @@
 
 ### 👋 Conócenos.
 
-<sub> 
-
-[Liderly]("https://liderly.com/ayuda.html") es una plataforma innovadora que ofrece a profesionales y personas en busca de desarrollo una amplia selección de cursos cuidadosamente diseñados para potenciar habilidades digitales altamente demandadas. Nuestro objetivo es conectar a talentosos individuos con las empresas que buscan ese talento excepcional. Con [Liderly]("https://liderly.com/ayuda.html"), puedes explorar una variedad de cursos de calidad y dar un impulso significativo a tu crecimiento profesional. Nos enorgullece ser el puente que une a los profesionales con oportunidades emocionantes en el ámbito digital.
-
-</sub>
+<sub>[Liderly]("https://liderly.com/ayuda.html") es una plataforma innovadora que ofrece a profesionales y personas en busca de desarrollo una amplia selección de cursos cuidadosamente diseñados para potenciar habilidades digitales altamente demandadas. Nuestro objetivo es conectar a talentosos individuos con las empresas que buscan ese talento excepcional. Con [Liderly]("https://liderly.com/ayuda.html"), puedes explorar una variedad de cursos de calidad y dar un impulso significativo a tu crecimiento profesional. Nos enorgullece ser el puente que une a los profesionales con oportunidades emocionantes en el ámbito digital.</sub>
 
 
 ### 🦺 Ayudanos a hacer esta comunidad segura.
