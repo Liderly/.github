@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://liderly.com/index.html">
-    <img src="images/Liderly%20comunidad.png" alt="Liderly logo" height="250">
+    <img src="../profile/images/Liderly%20comunidad.png" alt="Liderly logo" height="250">
   </a>
 </p>
 
