@@ -1,4 +1,4 @@
-<h2 align="center">Únete a Liderly y forma parte de una <a href="https://discord.com/invite/99BRK9fPm2">comunidad</a> de profesionales en constante crecimiento.</h1>
+<h2 align="center">Únete a Liderly y forma parte de una <a href="https://discord.gg/99BRK9fPm2">comunidad</a> de profesionales en constante crecimiento.</h1>
 
 
 <p align="center">
@@ -16,7 +16,7 @@
   |
   <a href="https://liderly.com/ayuda.html">Dudas👋🆘</a>
   |
-  <a href="https://discord.com/invite/99BRK9fPm2">Comunidad en Discord🌐</a>
+  <a href="https://discord.gg/99BRK9fPm2">Comunidad en Discord🌐</a>
   |
   <a href="https://liderly.com/blog.html">Conoce nuestro Blog📓</a>
 </p>
